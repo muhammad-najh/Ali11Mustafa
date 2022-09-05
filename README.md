@@ -41,5 +41,4 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Ali11Mustafa/Ali11Mustafa/blob/output/snake.svg" alt="Snake animation" />
 
