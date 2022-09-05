@@ -1,4 +1,4 @@
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/Ali11Mustafa/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Ali11Mustafa/count.svg?"  />
