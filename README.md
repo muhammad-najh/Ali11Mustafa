@@ -35,9 +35,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ali11Mustafa/count.svg?"  />
-</div>
 
 ###
 
