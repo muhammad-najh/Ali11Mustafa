@@ -1,6 +1,3 @@
-<img href="https://raw.githubusercontent.com/Ali11Mustafa/Ali11Mustafa/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Ali11Mustafa/count.svg?"  />
@@ -46,5 +43,3 @@
 
 <img href="https://raw.githubusercontent.com/Ali11Mustafa/Ali11Mustafa/blob/output/snake.svg" alt="Snake animation" />
 
-###
-Profile Readme Generator
